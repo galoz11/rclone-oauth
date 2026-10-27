@@ -15,7 +15,7 @@ This is **not** a public application, nor is it a commercial backup service.
 ## Google Cloud Configuration
 When configuring the OAuth Consent Screen in Google Cloud, the following URLs are used:
 
-* **Application home page:** `[https://github.com/galoz11/rclone-oauth/](https://galoz11.github.io/rclone-oauth/)`
-* **Application privacy policy link:** `[https://github.com/galoz11/rclone-oauth/](https://galoz11.github.io/rclone-oauth/)`
+* **Application home page:** `https://galoz11.github.io/rclone-oauth/`
+* **Application privacy policy link:** `https://galoz11.github.io/rclone-oauth/`
 
 *(Note: The same URL is used for both the homepage and the privacy policy, as all required information is contained on this single page).*
